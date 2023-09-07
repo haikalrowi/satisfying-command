@@ -23,6 +23,13 @@ Source(s):
   Remove-Item -Path $env:USERPROFILE\.vscode -Recurse
   ```
 
+- Install extension
+
+  ```
+  code --install-extension ms-vscode-remote.remote-wsl
+  ```
+
 Source(s):
 
 - [Uninstall Visual Studio Code](https://code.visualstudio.com/docs/setup/uninstall#_clean-uninstall)
+- [Managing Extensions in Visual Studio Code](https://code.visualstudio.com/docs/editor/extension-marketplace#_command-line-extension-management)
