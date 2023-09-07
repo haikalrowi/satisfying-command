@@ -10,9 +10,16 @@
   wsl --install Ubuntu
   ```
 
+- Update and upgrade packages
+
+  ```
+  sudo apt update && sudo apt upgrade -y
+  ```
+
 Source(s):
 
 - [Basic commands for WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
+- [Set up a WSL development environment | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/setup/environment#update-and-upgrade-packages)
 
 ## Visual Studio Code
 
