@@ -40,3 +40,16 @@ Source(s):
 
 - [Uninstall Visual Studio Code](https://code.visualstudio.com/docs/setup/uninstall#_clean-uninstall)
 - [Managing Extensions in Visual Studio Code](https://code.visualstudio.com/docs/editor/extension-marketplace#_command-line-extension-management)
+
+## Git
+
+- Set `user.email` and `user.name`
+
+  ```
+  git config --global user.email "ei@teyvat"
+  git config --global user.name "ei"
+  ```
+
+Source(s):
+
+- [Git - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_identity)
