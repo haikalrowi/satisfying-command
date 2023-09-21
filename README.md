@@ -34,6 +34,7 @@ Source(s):
 
   ```
   code --install-extension ms-vscode-remote.remote-wsl
+  code --install-extension esbenp.prettier-vscode
   ```
 
 Source(s):
